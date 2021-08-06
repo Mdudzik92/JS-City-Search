@@ -1,9 +1,5 @@
 # JS-City-Search
 
-# JS-Filterable-List
-
-JavaScript Filterable List
-
 <!-- Live link to deployed app -->
 
 Repository: https://github.com/Mdudzik92/JS-City-Search <br>
