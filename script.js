@@ -22,7 +22,7 @@ function displayMatches() {
 	const html = matchArray
 		// .map returns an array, so using .join("") to turn it all into one string
 		.map((place) => {
-			// Creating a new regex to match the city name
+			// Creating a new regex to match the city name and then highlighting the word it matches
 			const regex = new RegExp(this.value, "gi");
 			const cityName = place.city.replace(
 				regex,
